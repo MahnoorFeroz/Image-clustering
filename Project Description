@@ -9,3 +9,7 @@ Main purpose:
   
 Objectives:
      1.  Use unsupervised process of clustering.
+     
+Approach:
+    1. Using Python libraries to extract features from images.
+    2. Make clusters of the images using features as a base.
