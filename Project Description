@@ -4,7 +4,8 @@ Project description:
     or an unsupervised process.
 
 Main purpose:
-     Suppose we have large number of different types of images are placed in one folder. Now our main goal is to divide them        on the bases of their shapes present in each image. 
+     Suppose we have large number of different types of images are placed in one folder. Now our main goal is to divide them  
+     on the bases of their shapes present in each image. 
   
 Objectives:
      1.  Use unsupervised process of clustering.
