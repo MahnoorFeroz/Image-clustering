@@ -1,0 +1,11 @@
+Project description:
+    Clustering is a process of dividing large number of data points into a groups so that data points in one group is similar 
+    to each other than those in different groups. The clustering process may be a supervised process using human intervention, 
+    or an unsupervised process.
+
+Main purpose:
+     Suppose we have large number of different types of images are placed in one folder. Now our main goal is to divide them  
+     on the bases of their shapes present in each image. 
+  
+Objectives:
+     1.  Use unsupervised process of clustering.
